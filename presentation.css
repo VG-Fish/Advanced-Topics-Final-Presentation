@@ -1,0 +1,25 @@
+/* Overall slide styling */
+section ul {
+    color: #edf2f4;
+}
+
+section em {
+    color: #fca311;
+}
+
+/* First slide styling */
+section.centered {
+    display: grid;
+    place-content: center;
+}
+
+section.centered h1, 
+section.centered h2 {
+    text-align: center;
+    margin: 0;
+}
+
+/* Last slide styling */
+section.end h1 {
+    font-size: 175px !important;
+}
