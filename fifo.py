@@ -1,9 +1,6 @@
 from typing import Self
 
 
-# TODO: push to Github.
-
-
 class Node:
     def __init__(self: Self, value: int, next: "Node" = None) -> None:
         self.value = value
