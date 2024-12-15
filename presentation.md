@@ -10,7 +10,7 @@ style: |
 
 <!--
 _class: centered
-backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
+backgroundImage: "linear-gradient(to right, #669bbc, #003049)"
 color: #fdf0d5
 -->
 
@@ -21,7 +21,7 @@ color: #fdf0d5
 ---
 
 <!--
-backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
+backgroundImage: "linear-gradient(to right, #003049, #669bbc)"
 -->
 
 # Introduction
@@ -39,7 +39,7 @@ backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
 
 <!--
 _class: centered
-backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
+backgroundImage: "linear-gradient(to right, #669bbc, #003049)"
 -->
 
 # Key Concepts
@@ -47,7 +47,7 @@ backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 ---
 
 <!--
-backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
+backgroundImage: "linear-gradient(to right, #003049, #669bbc)"
 -->
 
 # CPU Scheduling
@@ -61,7 +61,7 @@ backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
 
 <!--
 class: centered
-backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
+backgroundImage: "linear-gradient(to right, #669bbc, #003049)"
 -->
 
 # Virtualization of Memory
@@ -74,7 +74,7 @@ backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 ---
 
 <!--
-backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
+backgroundImage: "linear-gradient(to right, #003049, #669bbc)"
 -->
 
 # Code for FIFO Scheduler
@@ -82,7 +82,7 @@ backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
 ---
 
 <!--
-backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
+backgroundImage: "linear-gradient(to right, #669bbc, #003049)"
 -->
 
 # Implementation Code
@@ -92,7 +92,7 @@ backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 ---
 
 <!--
-backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
+backgroundImage: "linear-gradient(to right, #003049, #669bbc)"
 -->
 
 # Testing Code
@@ -102,7 +102,7 @@ backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 ---
 
 <!--
-backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
+backgroundImage: "linear-gradient(to right, #669bbc, #003049)"
 -->
 
 # Terminal Output
@@ -113,7 +113,7 @@ backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 
 <!--
 _class: centered end
-backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
+backgroundImage: "linear-gradient(to right, #003049, #669bbc)"
 -->
 
 # The End!
