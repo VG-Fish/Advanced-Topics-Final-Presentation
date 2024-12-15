@@ -7,7 +7,7 @@ class Node:
         self._next = next
 
     def __str__(self: Self) -> str:
-        return f"Node({self.value})"
+        return f"Process({self.value})"
 
 
 class Queue:
@@ -50,17 +50,19 @@ class Queue:
 
 
 q = Queue()
+print("0ms:  ", q)
+
 q.add(Node(1))
 q.add(Node(2))
-print(q)
+print("20ms: ", q)
 
 q.pop()
-print(q)
+print("40ms: ", q)
 
 q.add(Node(3))
-print(q)
+print("60ms: ", q)
 
 q.pop()
 q.pop()
 q.add(Node(4))
-print(q)
+print("80ms: ", q)

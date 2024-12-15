@@ -83,12 +83,37 @@ backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
 ---
 
 <!--
+_class: centered
 backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 -->
 
 # Implementation Code
 
-## ![w:32 h:32]("Implementation Code.png")
+![bg left w:450 h:515](implementation_code.jpg)
+
+---
+
+<!--
+_class: centered
+backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
+-->
+
+# Testing Code
+
+![bg right w:300 h:400](testing_code.jpg)
+
+---
+
+<!--
+_class: centered
+backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
+-->
+
+# Terminal Output
+
+![bg left w:575 h:225](terminal_output.jpg)
+
+---
 
 <!--
 _class: centered end
