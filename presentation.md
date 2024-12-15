@@ -60,7 +60,7 @@ backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
 ---
 
 <!--
-_class: centered
+class: centered
 backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 -->
 
@@ -74,7 +74,6 @@ backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 ---
 
 <!--
-_class: centered
 backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
 -->
 
@@ -83,7 +82,6 @@ backgroundImage: "linear-gradient(to bottom, #003049, #669bbc)"
 ---
 
 <!--
-_class: centered
 backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 -->
 
@@ -94,7 +92,6 @@ backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 ---
 
 <!--
-_class: centered
 backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 -->
 
@@ -105,7 +102,6 @@ backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 ---
 
 <!--
-_class: centered
 backgroundImage: "linear-gradient(to bottom, #669bbc, #003049)"
 -->
 
