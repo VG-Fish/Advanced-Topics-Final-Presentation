@@ -26,7 +26,7 @@ backgroundImage: "linear-gradient(to right, #003049, #669bbc)"
 
 # Introduction
 
-- ##### [Fundamentals of Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- ##### [Fundamentals of Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) (University of Wisconsin-Madison)
 - ##### Course Content
   - ###### Virtualization
   - ###### Concurrency
